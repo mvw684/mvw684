@@ -1,4 +1,4 @@
-### Hi there 👋
+### Something about me👋
 
 <!--
 **mvw684/mvw684** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+This year I started to do a bit more with and on GitHub, as a result trying to create a nice profile readme. Taking it a small step at a time.
+
+Some professional information you can find on my [Linkedin](www.linkedin.com/in/markvanwijk) profile. Information on my hobbies I tend to share on [Facebook](https://www.facebook.com/mark.j.van.wijk), most of that is limited to my facebook coonnections. These connections tend to be people I met in real life. You can also experience some of my interests from my (twitter)[https://twitter.com/mjvw68] account.
